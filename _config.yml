@@ -1,0 +1,4 @@
+# 基础配置
+baseurl: /simple-jekyll-demo
+title: Simple Jekyll Demo
+description: Quickly build a simple Jekyll website
